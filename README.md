@@ -14,8 +14,10 @@ If you want to clone this repositories or have any better opinions
 
 please contact me by email:
 
-2113097922@qq.com 
+2113097922@qq.com
+
 or
+
 sukabing0619@gmail.com
 
 ---
@@ -33,7 +35,9 @@ sukabing0619@gmail.com
 如果你想复制这个仓库或者有更好的建议
 请通过邮箱联系我:
 2113097922@qq.com
+
 或者
+
 sukabing0619@gmail.com
 
 ---
