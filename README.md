@@ -10,7 +10,7 @@ The contents of the diary may cause discomfort and should be entered with cautio
 
 ---
 
-If you want to clone this repositories or have any better opinions
+If you have any better opinions
 
 please contact me by email:
 
@@ -34,7 +34,7 @@ sukabing0619@gmail.com
 
 ---
 
-如果你想复制这个仓库或者有更好的建议
+如果你有更好的建议
 
 请通过邮箱联系我:
 
